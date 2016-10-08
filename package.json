@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aayaffe/url-shortener-aayaffe/issues"
   },
-  "homepage": "https://github.com/aayaffe/url-shortener-aayaffe#readme"
+  "homepage": "https://github.com/aayaffe/url-shortener-aayaffe#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
